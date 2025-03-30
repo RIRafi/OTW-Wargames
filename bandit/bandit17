@@ -1,0 +1,6 @@
+1. scan for ports and also which is tls -> nmap -sV localhost -p 31000-32000
+2. openssl s_client -ign-eof -connect localhost:31790
+3. give bandit16's pass
+4. save the private key in /tmp/randomfolder(with mktemp -d)  // save the key with begining and end header!!!!!!
+5. ssh -i <key file> -p 2220 bandit17@bandit.labs.overthewire.org
+6. pass - EReVavePLFHtFlFsjn3hyzMlvSuSAcRD

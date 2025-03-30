@@ -1,0 +1,8 @@
+1. mv data.txt hexdump // rename
+
+2. xxd -r hexdump data // revert the hexdump
+//// meaning hexdump is text file containing hex values of some file.
+we need to make an actual file that has hex value as same as that text file
+
+3. now decompress every data archive by finding the archive type using file command
+4. at last a text file with pass - FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn

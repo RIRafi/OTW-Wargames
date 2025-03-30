@@ -1,0 +1,10 @@
+1. find / -type f -size 33c -user bandit7 -group bandit6 2>/dev/null 
+here 2>/dev/null  removes all error messages from the output
+
+or,
+
+find 2>&1 -type f -size 33c -user bandit7 -group bandit6  | grep -v 'Permission denied' >&2
+
+2. cat /var/lib/dpkg/info/bandit7.password
+
+3. pass - morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj

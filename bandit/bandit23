@@ -1,0 +1,4 @@
+1. cat cronjob_bandit23
+2. observe cat /usr/bin/cronjob_bandit23.sh
+3. cat /tmp/$(echo I am user bandit23 | md5sum | cut -d ' ' -f 1)
+4. pass - 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
