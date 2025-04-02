@@ -1,0 +1,5 @@
+1. cat bandit26.sshkey into my local file
+2. now ssh using the private key but make terminal window size smaller!!
+3. it goes into more command so type v to go into vim
+4. type :r /etc/bandit_pass/bandit26 to read the pass file
+5. pass - s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ

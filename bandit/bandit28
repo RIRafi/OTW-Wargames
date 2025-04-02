@@ -1,0 +1,5 @@
+1. cd mktemp -d
+2. git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
+3. cd repo
+4. cat README
+5. pass - Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN

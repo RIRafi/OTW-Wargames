@@ -1,0 +1,5 @@
+1. from the vim editor from the previous level we want to get into a bash shell so type :set shell=/bin/bash and enter to set default shell
+2. now type :!sh to spawn a shell
+3. type bash to get the bash shell
+4. ./bandit27-do cat /etc/bandit_pass/bandit27 to read the pass file as bandit27
+5. pass - upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB

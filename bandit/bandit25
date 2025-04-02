@@ -1,0 +1,9 @@
+1. create a script to save all the possible combinations in a text file 
+	#! /bin/bash
+
+	for i in {0000..9999}
+	do
+	echo gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 $i >> possibilities.txt
+	done
+2. cat possibilities.txt | nc localhost 30002 | grep -v  "Wrong"  \\\ now filter out all the wrong outputs
+3. pass - iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
