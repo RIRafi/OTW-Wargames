@@ -1,0 +1,6 @@
+1. cd mktemp -d
+2. git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
+3. cd repo
+4. git tag    ///show list of tags
+5. git show <tag name>  ///show tag secret
+6. pass - fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy

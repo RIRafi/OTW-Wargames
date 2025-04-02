@@ -1,0 +1,10 @@
+1. cd mktemp -d
+2. git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
+3. cd repo
+4. echo 'May I come in?' > key.txt   ///creating the file
+5. git add -f . ///force staging due to gitignore
+6. git commit -m "msg"
+7. git push
+8. pass - 3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K
+
+or, editing .gitignore

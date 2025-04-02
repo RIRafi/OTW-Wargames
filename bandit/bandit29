@@ -1,0 +1,6 @@
+1. cd mktemp -d
+2. git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
+3. cd repo
+4. git log to see commit history
+5. git show to see the latest commit details which reveals the pass
+6. pass - 4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7

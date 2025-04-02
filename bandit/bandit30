@@ -1,0 +1,12 @@
+1. cd mktemp -d
+2. git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
+3. cd repo
+4. git switch dev   ///dev branch
+5. cat README
+
+or,
+
+4. git log --all   ///lists both local and remote commit history
+5. git show <latest commit>
+
+6. pass - qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL
