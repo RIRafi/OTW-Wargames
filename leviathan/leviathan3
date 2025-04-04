@@ -1,0 +1,6 @@
+1. cd mktemp -d
+2. touch "test text.txt"      /// make a file with whitespace
+3. ln -s /etc/leviathan_pass/leviathan3 test    /// make a symbolic link file
+4. chmod 777 . /// change the premission of the tmp folder
+5. ~/printfile "test text.txt" 
+6. pass - f0n8h2iWLP

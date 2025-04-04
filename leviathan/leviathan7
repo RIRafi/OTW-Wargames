@@ -1,0 +1,3 @@
+1. for i in {0000..9999}; do ./leviathan6 $i; done
+2. cat /etc/leviathan_pass/leviathan7
+3. pass - qEs5Io5yM8
